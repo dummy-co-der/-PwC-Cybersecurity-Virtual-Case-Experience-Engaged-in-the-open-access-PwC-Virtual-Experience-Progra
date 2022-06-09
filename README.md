@@ -7,3 +7,6 @@ Tasks Completed include: <br>
 <li> IT System Security Baseline </li>
 <li> Network Segmentation </li> 
 </ul>
+
+Task-1 <br>
+[PowerPoint Presentation](https://drive.google.com/file/d/1u8gPROuaYC359DUo-MI5Cx-0cPHzmXkU/view?usp=sharing)
