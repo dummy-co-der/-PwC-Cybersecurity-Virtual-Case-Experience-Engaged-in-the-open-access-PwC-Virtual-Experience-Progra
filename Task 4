@@ -1,0 +1,28 @@
+# PwC-Cybersecurity-Virtual-Case-Experience
+Engaged in the open-access PwC Virtual Experience Program with Forage creating a risk assessment presentation. Tasks Completed include: Integrated Information Defense, Risk Assessment, IT System Security Baseline, Network Segmentation
+
+## Task 4: Network Segmentation <br>
+### Background
+The Head of IT Infrastructure of Boldi AG does see the need for network segmentation but cannot follow why a segmented network cannot prevent you from every possible issue. In order to give him and his people a broad understanding of the topic, Stefan organises a workshop and need your help. 
+
+### Part 1
+For Stefans preparation, write in Microsoft Word format detailed notes explaining how segmentation contributes to network security and to the security of the whole organisation. Your notes will help Stefan creating the workshop.
+### Part 2
+The  Head of IT Infrastructure of Boldi AG provided Stefan with the following network segmentation:
+![image](https://user-images.githubusercontent.com/87041507/145629481-60205b42-7b49-485d-aa9b-840f664db070.png)
+**Domain**: A namespace which logically divides an organisation’s network objects that share the same directory.
+
+**Admin Zone**: Special purpose server zone, e.g. central logging, Security Information and Event Management (SIEM)
+
+**Server Zone**: General purpose server zone, e.g. application servers, database servers
+
+**Client Zone**: General purpose client zone, e.g. user laptops
+
+Regarding network segmentation and trust architectures, the base configuration and maintenance of firewalls is of great importance. There are two approaches to configuring firewalls: whitelisting the good or blacklisting the bad.
+
+Add to your notes how firewalls A, B, C and D at Boldi AG need to be configured using the concepts of whitelisting and blacklisting and why. 
+
+This experience is self-paced. Anyway, Stefan is helds his workshop in 1 hour and need your valuable input. We recommend you spend no more than that completing this task.
+
+### Presentation
+[PowerPoint Presentation](https://docs.google.com/document/d/1tAjG20pag55Osc97wCPrtpyym5eFZcvc/edit?usp=sharing&ouid=107527976900613447373&rtpof=true&sd=true)
