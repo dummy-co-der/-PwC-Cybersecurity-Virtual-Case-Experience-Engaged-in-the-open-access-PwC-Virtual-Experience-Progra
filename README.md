@@ -120,6 +120,7 @@ For Stefans preparation, write in Microsoft Word format detailed notes explainin
 ### Part 2
 The  Head of IT Infrastructure of Boldi AG provided Stefan with the following network segmentation:
 ![image](https://user-images.githubusercontent.com/87041507/145629481-60205b42-7b49-485d-aa9b-840f664db070.png)
+<br>
 **Domain**: A namespace which logically divides an organisation’s network objects that share the same directory.
 
 **Admin Zone**: Special purpose server zone, e.g. central logging, Security Information and Event Management (SIEM)
